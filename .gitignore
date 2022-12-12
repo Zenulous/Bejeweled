@@ -58,3 +58,4 @@ build-iPhoneSimulator/
 .DS_Store
 .idea
 config/master.key
+log/
